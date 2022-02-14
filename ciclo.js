@@ -6,4 +6,9 @@ function ciclo(){
     }
     return count;
 }
-
+function random(count){
+    if(count == 0){
+    }else{
+    	var o = 1;
+    } 
+}
