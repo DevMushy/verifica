@@ -12,3 +12,4 @@ function random(count){
     	var o = 1;
     } 
 }
+var k = 0;
