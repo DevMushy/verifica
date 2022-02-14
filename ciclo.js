@@ -6,4 +6,8 @@ function ciclo(){
     }
     return count;
 }
-
+function random(count){
+    if(count == 0){
+        //basta non so piu che fare lol
+    }
+}
