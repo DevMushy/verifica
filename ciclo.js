@@ -8,8 +8,16 @@ function ciclo(){
 }
 function random(count){
     if(count == 0){
+<<<<<<< HEAD
         //basta non so piu che fare lol        
         //voglio giocare seraphine e salire di elo ma quel gioco è buggato
     }
 }
 var u = 7;
+=======
+    }else{
+    	var o = 1;
+    } 
+}
+var k = 0;
+>>>>>>> master
