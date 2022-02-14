@@ -8,8 +8,8 @@ function ciclo(){
 }
 function random(count){
     if(count == 0){
-        //basta non so piu che fare lol
-        
+        //basta non so piu che fare lol        
         //voglio giocare seraphine e salire di elo ma quel gioco è buggato
     }
 }
+var u = 7;
